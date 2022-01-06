@@ -3,6 +3,9 @@
 ## Requirements
 
 Docker: make sure your docker deamon is running
+Node v16.6.1: `node -v` -> v16.8.0
+npm v7.20.3: `npm install -g npm`, `npm -v` -> 8.3.0
+Vue CLI v4.5.13: `npm install -g @vue/cli`, `vue --version` -> @vue/cli 4.5.15
 Python v3.9: Docker / PyCharm > Add Interpreter > Virtualenv
 
 ## FastAPI Setup
