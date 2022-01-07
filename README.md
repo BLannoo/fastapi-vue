@@ -10,3 +10,7 @@ Python v3.9: Docker / PyCharm > Add Interpreter > Virtualenv
 
 ## FastAPI Setup
 Remark: make sure your docker deamon is running
+
+## Routing
+1) When setting JWT token as cookie, https was disabled with (secure=False), this would need to be improved in prod.
+2) Testing suggestions listed + [other tutorial](https://testdriven.io/blog/fastapi-crud/)
